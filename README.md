@@ -6,6 +6,6 @@ Gilberto Belizário de Souza - RA 24000566
 
 Leonardo Mendes de Freitas - RA 24000528
 
-Banco de Dados: 
+Banco de Dados: https://drive.google.com/drive/folders/1hao0MF0mPCZvR2AxFVvD4fSzJcVWQ7wq?usp=drive_link
 
 Video Pitch: 
