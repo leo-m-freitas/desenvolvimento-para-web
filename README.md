@@ -1,5 +1,7 @@
 # desenvolvimento-para-web
 
+# observação: para teste do projeto, utilizar url - localhost:4040
+
 Ana Jaqueline da Costa França - RA 24000520
 
 Gilberto Belizário de Souza - RA 24000566
