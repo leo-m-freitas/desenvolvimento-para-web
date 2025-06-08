@@ -1,0 +1,20 @@
+{
+  "name": "introducao_nodejs",
+  "version": "1.0.0",
+  "description": "Introdução a Node Js para ferramenta Web",
+  "license": "ISC",
+  "author": "Leonardo",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon"
+  },
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "knex": "^3.1.0",
+    "mysql2": "^3.14.1",
+    "nodemon": "^3.1.10"
+  }
+}
