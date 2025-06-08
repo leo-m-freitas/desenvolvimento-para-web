@@ -1,6 +1,6 @@
 # desenvolvimento-para-web
 
-# observação: para teste do projeto: abrir terminal + 'npm start', utilizar no navegador url - 'localhost:4040'
+observação: para teste do projeto: abrir terminal + 'npm start', utilizar no navegador url - 'localhost:4040'
 
 Ana Jaqueline da Costa França - RA 24000520
 
