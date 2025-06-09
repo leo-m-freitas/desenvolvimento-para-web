@@ -12,4 +12,4 @@ Banco de Dados: https://drive.google.com/drive/folders/1hao0MF0mPCZvR2AxFVvD4fSz
 
 FrontEnd: https://frontend-desenvolvimento-web.vercel.app/
 
-Video Pitch: 
+Video Pitch: https://www.youtube.com/watch?v=UVkh31b7B_s
